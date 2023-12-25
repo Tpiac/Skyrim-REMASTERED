@@ -87,7 +87,7 @@ Steam version, English
 
 If your Steam library is in Program Files, refer to [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) guide to move it elsewhere. Do not install do default Windows folders (Desktop, Documents, Downloads, etc.) as this will cause issues.
 
-As mentioned earlier, your game version on Steam should be `1.6.1130` or `1.6.1130`, AE Edition with downloaded CC content(launch once, download, close).
+As mentioned earlier, your game version on Steam should be `1.6.1130` or `1.6.640`, AE Edition with downloaded CC content(launch once, download, close).
 
 ### List Installation
 
