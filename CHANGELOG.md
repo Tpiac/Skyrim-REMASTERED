@@ -4,7 +4,7 @@
 
 ## Version 1.1.0
 
-**Safe-friendly**
+**Save-friendly**
 
 - Added animations for NPC/player consuming potions
 - Updated LODs
