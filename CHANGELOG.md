@@ -11,4 +11,4 @@
 - Optional LUT from DLAA is now a separated mod, dont use without DLAA
 - Minor adjustments
 
-Check *overwrite* in wabbjack when updating!
+Check *overwrite installation* box in wabbajack when updating!
