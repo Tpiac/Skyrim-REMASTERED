@@ -1,8 +1,22 @@
 # Changelog
-
+- [Version 1.2.1](#version-121)
 - [Version 1.2.0](#version-120)
+- 
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
+
+## Version 1.2.1
+
+**Save-friendly**
+
+REMOVED:
+- Ancient Dwemer files that prevent installation of the list was removed
+- Player Spell (and Weapon) Lighting
+- Aptitude - A Minimalistic Class Overhaul
+
+UPDATED:
+- FSMP - Faster HDT-SMP(NO CUDA, NO AVX)
+  Report to discord if you have crashes related to physics
 
 ## Version 1.2.0
 
