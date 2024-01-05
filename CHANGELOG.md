@@ -1,7 +1,6 @@
 # Changelog
 - [Version 1.2.1](#version-121)
 - [Version 1.2.0](#version-120)
-- 
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
 
