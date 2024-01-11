@@ -41,6 +41,7 @@ CHANGED:
 - EVT branches now more colorfull and juicy(looks good)
 - Custom meshes with nice blending and etc that replace majestic landscape ones
 - RWT Textures
+- ...whatever else i forgot
 
 ## Version 1.2.2
 
