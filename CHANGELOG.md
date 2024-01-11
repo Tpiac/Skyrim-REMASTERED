@@ -23,6 +23,7 @@ ADDED:
 - HHU - Healing Hurts Undead
 - Open Face Guard Helmets - LOOSE
 - SoulsyHUD
+- Racial Movement Framework
 - Toggle Combat Camera
 - Rally's Solstheim Landscapes Complex Terrain Parallax Edition
 - Soul Cairn HD Expansion Parallax
@@ -41,6 +42,7 @@ CHANGED:
 - EVT branches now more colorfull and juicy(looks good)
 - Custom meshes with nice blending and etc that replace majestic landscape ones
 - RWT Textures
+- Landscape fully parallaxed
 - ...whatever else i forgot
 
 ## Version 1.2.2
