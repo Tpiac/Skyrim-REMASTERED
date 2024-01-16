@@ -39,7 +39,6 @@ ADDED:
 - Modular Armory
 - Creation Club Open Helmets
 - Reshaped Dark Brotherhood Robes
-- Sleek Wolf Armor - Replacer
 - Moon Monk's Robes
 - C.O.I.N. - Smelting add-on
 - Organic Player Animations (selective)
