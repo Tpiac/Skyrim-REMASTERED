@@ -1,10 +1,67 @@
 # Changelog
+- [Version 1.4.0](#version-140)
 - [Version 1.3.0](#version-130)
 - [Version 1.2.2](#version-122)
 - [Version 1.2.1](#version-121)
 - [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
+
+## Version 1.4.0(Unreleased)
+
+**NEW GAME!!!**
+
+ADDED:
+- Azurite Weathers II - Darker Nights
+- Time Format Changer(immersive)
+- Kanjs - Commons books
+- Kanjs - Malyn Varen's Grimoire
+- Kanjs - Gray Fox Bust and Cowl
+- Kanjs - Ancient Falmer Tomes
+- Kanjs - The Boethiah's Proving Book
+- Kanjs - The Aetherium Wars Book
+- Kanjs - The Dreamstride Book
+- Kanjs - Journals
+- Kanjs - Mythic Dawn Commentaries
+- Kanjs - Book of the Dragonborn
+- Kanjs - Spell Tomes
+- Kanjs - Black Book
+- Kanjs - Oghma Infinium
+- Lucid Skin
+- Female hands redone
+- Vanilla Body with UNP Textures
+- SkyPatcher - Shoeless Bandit Fix
+- One Click Power Attack NG
+- Lucidity Sound FX SSE
+- Falmer Sounds -The Betrayed Remaster-
+- TDM - First Person Target Locking Fix
+- Descriptions for Various Mods
+- Modular Armory
+- Creation Club Open Helmets
+- Reshaped Dark Brotherhood Robes
+- Sleek Wolf Armor - Replacer
+- Moon Monk's Robes
+- C.O.I.N. - Smelting add-on
+- Organic Player Animations (selective)
+- Glamarye Fast Effects
+
+Kanjs books meshes and textures choosed selective based on what fits and looks best
+in my opinion
+
+REMOVED:
+- CBBE/3BA/BodySlide and all dependencies
+- Cathedral Armory
+- AI Overhaul Lite(cause script lag)
+
+CHANGED:
+- Obscurity of names(Optional)
+- Game AO disabled(looks bad)
+- Item restrictions
+- Travel pack(journeyman) mesh swapped with JS Knapsack mesh
+- Diverse Firewood - Vanilla swapped with Really Lootable Piles
+
+UPDATED:
+- Bunch of mods..
 
 ## Version 1.3.0
 
