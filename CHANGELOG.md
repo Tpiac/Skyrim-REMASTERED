@@ -1,4 +1,5 @@
 # Changelog
+- [Version 1.4.1](#version-141)
 - [Version 1.4.0](#version-140)
 - [Version 1.3.0](#version-130)
 - [Version 1.2.2](#version-122)
@@ -6,6 +7,10 @@
 - [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
+
+## Version 1.4.1
+
+Fixed installation issue, enabled dodge for performance profile, updated SPID
 
 ## Version 1.4.0
 
