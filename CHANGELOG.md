@@ -7,7 +7,7 @@
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
 
-## Version 1.4.0(Unreleased)
+## Version 1.4.0
 
 **NEW GAME!!!**
 
@@ -31,6 +31,7 @@ ADDED:
 - Female hands redone
 - Vanilla Body with UNP Textures
 - SkyPatcher - Shoeless Bandit Fix
+- SkyPatcher - Mortal Enemies
 - One Click Power Attack NG
 - Lucidity Sound FX SSE
 - Falmer Sounds -The Betrayed Remaster-
@@ -43,6 +44,8 @@ ADDED:
 - C.O.I.N. - Smelting add-on
 - Organic Player Animations (selective)
 - Glamarye Fast Effects
+- Sacrifice or Sovngarde - A Death Alternative
+- Simple Dodge (Requiem dodge standalone)
 
 Kanjs books meshes and textures choosed selective based on what fits and looks best
 in my opinion
@@ -51,6 +54,8 @@ REMOVED:
 - CBBE/3BA/BodySlide and all dependencies
 - Cathedral Armory
 - AI Overhaul Lite(cause script lag)
+- Wait Your Turn
+- FVAR - Weight Slider Affected Tails Patch
 
 CHANGED:
 - Obscurity of names(Optional)
@@ -61,6 +66,8 @@ CHANGED:
 
 UPDATED:
 - Bunch of mods..
+
+Many other small fixes and tweaks
 
 ## Version 1.3.0
 
