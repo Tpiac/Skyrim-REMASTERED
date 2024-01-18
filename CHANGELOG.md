@@ -1,4 +1,5 @@
 # Changelog
+- [Version 1.4.3](#version-143)
 - [Version 1.4.2](#version-142)
 - [Version 1.4.1](#version-141)
 - [Version 1.4.0](#version-140)
@@ -8,6 +9,13 @@
 - [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
+
+## Version 1.4.3(unreleased)
+
+- VanillaHDR now optional(list was advertised with it enabled)
+- Incorporated dynamic gamma SKSE for vanilla HDR to acoompany some settings i altered, now light will not flicker at dusk time when you move up/down with VanillaHDR enabled. You probably haven't even noticed that
+- Added modern style HUD preset to optional separator
+- Updated LOD's for Animated Ice Floes as author of that mod suggested
 
 ## Version 1.4.2
 
