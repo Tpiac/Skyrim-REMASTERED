@@ -10,12 +10,19 @@
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
 
-## Version 1.4.3(unreleased)
+## Version 1.4.3
+
+**Save-friendly**
 
 - VanillaHDR now optional(list was advertised with it enabled)
 - Incorporated dynamic gamma SKSE for vanilla HDR to acoompany some settings i altered, now light will not flicker at dusk time when you move up/down with VanillaHDR enabled. You probably haven't even noticed that
 - Added modern style HUD preset to optional separator
 - Updated LOD's for Animated Ice Floes as author of that mod suggested
+- EVLaS(optional)
+
+Dont forget to Check *overwrite installation* box in wabbajack when updating!
+
+Also remove profiles folder from MO2 in your modlist installed folder in case some unchecked by default may become missed
 
 ## Version 1.4.2
 
