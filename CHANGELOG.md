@@ -1,4 +1,5 @@
 # Changelog
+- [Version 1.4.5](#version-145)
 - [Version 1.4.4](#version-144)
 - [Version 1.4.3](#version-143)
 - [Version 1.4.2](#version-142)
@@ -10,6 +11,14 @@
 - [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
+
+## Version 1.4.5
+
+**Save-friendly**
+
+Adjusted IED: gear nodes, aaded missile preset(selective) to display potions, excluded torch from displaying at all
+
+Check *overwrite installation* box in wabbajack when updating!
 
 ## Version 1.4.4
 
