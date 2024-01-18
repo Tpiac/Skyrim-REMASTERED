@@ -22,7 +22,7 @@
 
 Dont forget to Check *overwrite installation* box in wabbajack when updating!
 
-Also remove profiles folder from MO2 in your modlist installed folder in case some unchecked by default may become missed
+Also remove profiles folder from MO2 in your modlist installed folder in case some unchecked by default mods may become missed
 
 ## Version 1.4.2
 
