@@ -59,7 +59,7 @@ You must AE bought and downloaded. For this to accomplish you need to launch gam
 Please complete the following steps:
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 2. Install [Microsoft .NET 6.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime) and [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime).
-3. Fresh copy of `1.6.1130` installed on Steam should be fine. It should be a fresh installation.
+3. Fresh copy of `1.6.1170` installed on Steam should be fine. It should be a fresh installation.
 
 #### Pagefile and Crash Prevention
 
@@ -91,7 +91,7 @@ Steam version, English
 
 If your Steam library is in Program Files, refer to [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) guide to move it elsewhere. Do not install do default Windows folders (Desktop, Documents, Downloads, etc.) as this will cause issues.
 
-As mentioned earlier, your game version on Steam should be `1.6.1130`, AE Edition with downloaded CC content(launch once, download, close).
+As mentioned earlier, your game version on Steam should be `1.6.1170`, AE Edition with downloaded CC content(launch once, download, close).
 
 ### List Installation
 
