@@ -24,6 +24,10 @@
   - [Starting the Game](#starting-the-game)
 - [Credits and Thanks](#credits-and-thanks)
 
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
+</p>
+
 - ## Overview
 
 More than a year in the making personal modlist been created to overhaul the whole game. It breaks into three major pillars: engine/utility, graphics and gameplay. Modlist offers carefully selected meshes and textures, custom patching and tweaks. 
