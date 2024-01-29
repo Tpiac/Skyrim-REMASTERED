@@ -1,4 +1,5 @@
 # Changelog
+- [Version 1.5.0](#version-150)
 - [Version 1.4.5](#version-145)
 - [Version 1.4.4](#version-144)
 - [Version 1.4.3](#version-143)
@@ -11,6 +12,12 @@
 - [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
+
+## Version 1.5.0
+
+**New Game Required**
+
+Whole list was revisited. Many new features and improvements.
 
 ## Version 1.4.5
 
