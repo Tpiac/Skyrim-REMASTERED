@@ -22,9 +22,9 @@
 Performance optimization, tweaks/bug fixes, new mods and features.
 
 MO2 profiles simply represent ini files adjustments -
-*Skyrim REMASTERED* - high
-*REMASTERED - Author Choice* - Balanced
-*REMASTERED - Performance INI* - Potato
+- *Skyrim REMASTERED* - high
+- *REMASTERED - Author Choice* - Balanced
+- *REMASTERED - Performance INI* - Potato
 
 Worth to update. Dont forget to check *overwrite installation* in wabbajack
 
