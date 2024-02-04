@@ -1,4 +1,5 @@
 # Changelog
+- [Version 1.5.3(Final)*](#version-153)
 - [Version 1.5.2](#version-152)
 - [Version 1.5.1](#version-151)
 - [Version 1.5.0](#version-150)
@@ -14,6 +15,16 @@
 - [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
+
+## Version 1.5.3(Final)*
+
+**New Game recommended**
+
+Removed MCO Combat, Skyrem MIA, tweaks and fixes, swapped fonts and other adjustments
+
+I am moving on from maintaining modlist and want just play the game. My goals with it has reached and everything should be good. Otherwise reach me out in my discord and let me know what is broken..
+
+Dont forget to check *overwrite installation* in wabbajack
 
 ## Version 1.5.2
 
