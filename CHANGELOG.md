@@ -1,5 +1,5 @@
 # Changelog
-- [Version 1.5.3(Final)*](#version-153)
+- [Version 1.5.3](#version-153)
 - [Version 1.5.2](#version-152)
 - [Version 1.5.1](#version-151)
 - [Version 1.5.0](#version-150)
