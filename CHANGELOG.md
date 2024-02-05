@@ -1,4 +1,5 @@
 # Changelog
+- [Version 1.5.3.1](#version-1531)
 - [Version 1.5.3](#version-153)
 - [Version 1.5.2](#version-152)
 - [Version 1.5.1](#version-151)
@@ -15,6 +16,14 @@
 - [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
+
+## Version 1.5.3.1
+
+**SAVE-FRIENDLY**
+
+Tiny bugfixing
+
+Dont forget to check *overwrite installation* in wabbajack
 
 ## Version 1.5.3(Final)*
 
