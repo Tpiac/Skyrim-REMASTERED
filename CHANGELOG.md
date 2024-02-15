@@ -1,4 +1,5 @@
 # Changelog
+- [Version 1.5.3.2](#version-1532)
 - [Version 1.5.3.1](#version-1531)
 - [Version 1.5.3](#version-153)
 - [Version 1.5.2](#version-152)
@@ -16,6 +17,12 @@
 - [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
+
+## Version 1.5.3.2
+
+**SAVE-FRIENDLY**
+
+Maintenance
 
 ## Version 1.5.3.1
 
