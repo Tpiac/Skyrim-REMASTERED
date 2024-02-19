@@ -1,4 +1,5 @@
 # Changelog
+- [Version 1.5.4](#version-154)
 - [Version 1.5.3.2](#version-1532)
 - [Version 1.5.3.1](#version-1531)
 - [Version 1.5.3](#version-153)
@@ -17,6 +18,12 @@
 - [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.0](#version-100)
+
+## Version 1.5.4
+
+**Save not friendly**
+
+Fixes, lods and water changes, improved interior lighting, performance optimizations, maintenance
 
 ## Version 1.5.3.2
 
