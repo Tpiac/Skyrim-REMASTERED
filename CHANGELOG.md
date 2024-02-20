@@ -24,7 +24,7 @@
 
 **SAVE-FRIENDLY**
 
-Maintenance, new mods, maintenance, further performance optimizations
+Maintenance, new mods, further performance optimizations
 
 ## Version 1.5.4
 
