@@ -6,6 +6,10 @@
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/AHW33bnUb5">Modlist available in DISCORD</a>
+</p>
+
 ## Contents
 - [Overview](#overview)
 - [List Contents](#list-contents)
