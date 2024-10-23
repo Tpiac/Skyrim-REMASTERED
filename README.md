@@ -44,9 +44,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 
 ## System Requirements
 
-Big take was made on performance and stability however i am not going to list specific hardware because that didnt mean much.
-
-All i can say i have 3080 and 14600k 1440p, my average FPS about 90+. It goes to 75 only in few places.
+More demanding than vanilla. I would say any modern hardware made past 2015.
 
 ## Installation
 
