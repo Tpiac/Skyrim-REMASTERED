@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/AHW33bnUb5">Modlist available in DISCORD</a>
+  <a href="https://discord.gg/AHW33bnUb5">Recent changelog available only in DISCORD</a>
 </p>
 
 ## Contents
